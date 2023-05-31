@@ -6,11 +6,9 @@
 -->
 
 
-```xml
 <p align="center">
   <img src="assets\logo_white_BG_github.png" />
 </p>
-```
 
 - 🎓 Bachelor of Science at Biomechatronics Engineering in National Taiwan University.
 - 💼 Working as the research assistant of biophotonic and bioimaging labortory.
