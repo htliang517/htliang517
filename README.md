@@ -10,5 +10,5 @@
 
 - 🎓 Bachelor of Science at Biomechatronics Engineering in National Taiwan University.
 - 💼 Working as the research assistant of biophotonic and bioimaging labortory.
+- 📌 Research Interests in Robotics & Machine Learning.
 - 👯 Seaking for opportunities to contribute to the robot development industry.
-- 🌱 I’m currently learning more about Machine Learning and Robotics.
