@@ -3,7 +3,7 @@
 ** Go to : "https://shields.io/" to create badges.
 -->
 <p align="center">
-  <img src="assets\logo_white_BG_github.png" />
+  <img src="assets\rounded_logo_white_BG_github.png" />
 </p>
 
 # Hi there 👋 I'm Hua-Ta.
