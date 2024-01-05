@@ -15,7 +15,7 @@
 #### ● 🌐 Visit my personal website: https://htliang517.github.io/
 #### ● 💬 Wanna to contact me? [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=Social&logo=gmail&logoColor=white)](mailto:htliang517@gmail.com) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=Social&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/htliang517/)
 
-<br/><br/>
+<br/>
 
 <!-- Note that the following badges is from : https://github.com/Ileriayo/markdown-badges -->
 ## 💻 My Tech Stack
