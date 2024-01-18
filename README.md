@@ -31,15 +31,6 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=Flat&logo=ubuntu&logoColor=white)
 ![Raspberry Pi OS](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=Flat&logo=Raspberry-Pi)
 
-#### Web Development
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=Flat&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=Flat&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=Flat&logo=javascript&logoColor=%23F7DF1E)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=Flat&logo=bootstrap&logoColor=white)
-![Github Pages](https://img.shields.io/badge/github%20pages-%23ffffff?style=Flat&logo=github&logoColor=black)
-![Flask](https://img.shields.io/badge/flask-%23323330.svg?style=Flat&logo=flask&logoColor=white)
-![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=Flat&logo=apache-tomcat&logoColor=black)
-
 #### Databases
 ![MySQL](https://img.shields.io/badge/mysql-%23e45e2f.svg?style=Flat&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=Flat&logo=postgresql&logoColor=white)
@@ -52,6 +43,15 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=Flat&logo=PyTorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=Flat&logo=scikit-learn&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=Flat&logo=scipy&logoColor=%white)
+
+#### Web Development
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=Flat&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=Flat&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=Flat&logo=javascript&logoColor=%23F7DF1E)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=Flat&logo=bootstrap&logoColor=white)
+![Github Pages](https://img.shields.io/badge/github%20pages-%23ffffff?style=Flat&logo=github&logoColor=black)
+![Flask](https://img.shields.io/badge/flask-%23323330.svg?style=Flat&logo=flask&logoColor=white)
+![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=Flat&logo=apache-tomcat&logoColor=black)
 
 #### Other Development Skills & Tools
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=Flat&logo=anaconda&logoColor=white)
