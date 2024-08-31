@@ -7,9 +7,9 @@
 </p>
 
 # Hi there 👋 I'm Hua-Ta.
-
+#### ● 👨‍🎓 Currently a Master of Engineering student specializing in Autonomy & Robotics at University of Illinois Urbana-Champaign.
 #### ● 🎓 Bachelor of Science at Biomechatronics Engineering in National Taiwan University.
-#### ● 💼 Working as the research assistant of biophotonic and bioimaging labortory.
+#### ● 💼 Previously work as the research assistant of biophotonic and bioimaging labortory.
 #### ● 📌 Research Interests in Robotics & Machine Learning.
 #### ● 👯 Seaking for opportunities to contribute to the robot development industry.
 #### ● 🌐 Visit my personal website: https://htliang517.github.io/
@@ -27,7 +27,6 @@
 
 #### Operating System
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=Flat&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=Flat&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=Flat&logo=ubuntu&logoColor=white)
 ![Raspberry Pi OS](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=Flat&logo=Raspberry-Pi)
 
