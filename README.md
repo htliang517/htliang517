@@ -7,11 +7,10 @@
 </p>
 
 # Hi there 👋 I'm Hua-Ta.
-#### ● 👨‍🎓 Currently a Master of Engineering student specializing in Autonomy & Robotics at University of Illinois Urbana-Champaign.
+#### ● 👨‍🎓 Master of Engineering specializing in Autonomy & Robotics at University of Illinois Urbana-Champaign.
 #### ● 🎓 Bachelor of Science at Biomechatronics Engineering in National Taiwan University.
 #### ● 💼 Previously work as the research assistant of biophotonic and bioimaging labortory.
-#### ● 📌 Research Interests in Robotics & Machine Learning.
-#### ● 👯 Seaking for opportunities to contribute to the robot development industry.
+#### ● 📌 Research Interests in Robotics & Machine Learning & IoT.
 #### ● 🌐 Visit my personal website: https://htliang517.github.io/
 #### ● 💬 Wanna to contact me? [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=Social&logo=gmail&logoColor=white)](mailto:htliang517@gmail.com) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=Social&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/htliang517/)
 
